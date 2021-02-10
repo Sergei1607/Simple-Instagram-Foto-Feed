@@ -1,0 +1,82 @@
+body{
+    background: lightgrey;
+    margin: 0;
+    box-sizing:border-box
+}
+.header{
+    background: #fff;
+    width: 1000%;
+    margin-top: -50px
+}
+
+.header h1{
+    margin-left: 500px;
+    margin-top: 45px;
+    font-size: 25px;
+    padding: 20px
+}
+
+.caja{
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex
+}
+
+.titulo{
+    background: white;
+    width: 100%;
+    font-size: 15px;
+    text-align: left;
+    padding:8px    
+}
+
+.fecha{
+
+    background: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 10px; 
+    color: grey
+}
+
+.foto1{
+    width: 600px;
+    height: 500px;
+    background-image: url(https://estag.fimagenes.com/img/4/2/v/v/2vv_900.jpg);
+    margin: auto
+}
+
+.foto2{
+    width: 600px;
+    height: 500px;
+    background-image: url(https://s1.eestatic.com/2020/08/11/curiosidades/mascotas/mascotas-perros-curiosidades_512209327_157471852_1024x576.jpg);
+    
+    margin: auto
+}
+
+.foto3{
+    width: 600px;
+    height: 500px;
+    background-image: url(https://media.thestar.com.my/Prod/AE3A3BCA-9F5C-46C6-9BF5-5B4BFAA9F26E);
+    
+    margin: auto
+}
+
+.foto4{
+    width: 600px;
+    height: 500px;
+    background-image: url(https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2019/01/receta-de-pasta-casera-dos-ingredientes-sin-harina.jpeg);
+    
+    margin: auto
+}
+
+.descripcion{
+    width: 575px;
+    padding: 5px;
+    padding-left: 20px;
+    font-size: 18px;
+    background: white;
+    margin: auto;
+}
+
